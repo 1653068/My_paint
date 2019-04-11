@@ -238,7 +238,7 @@ ObjText::ObjText(WCHAR a[256], LOGFONT lf, COLORREF color) : Object()
 {
 	Size.left = 0; Size.top = 0;
 	Size.right = 400; Size.bottom = 100;
-	wcscpy(_Text, a);
+	wcscpy_s(_Text, a);
 	length = wcslen(_Text);
 	Type = 3;
 	Font = lf;
@@ -300,7 +300,7 @@ void ObjText::GetFont(LOGFONT &a)
 
 void ObjText::GetText(WCHAR tmp[256])
 {
-	wcscpy(tmp, _Text);
+	wcscpy_s(tmp, 256, _Text);
 }
 
 int ObjText::GetType()
