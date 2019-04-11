@@ -1,15 +1,11 @@
-* Hoò tên: TriÌnh Ğaòi Phuìc
+* Há» vÃ  tÃªn: TrÃ¬nh Äáº¡i PhÃºc
 * MSSV: 1653068
-* Caìc yêu câÌu ğaŞ hoaÌn thaÌnh:
-	- Taòo caìc menu item, phiìm tãìt, toolbar cuÒa caìc chıìc nãng: Cut, Copy, Paste, Delete
-	- Cut (Ctrl+X): cut object ğang ğıõòc choòn lıu vaÌo clipboard
-	- Copy: (Crl+C): copy object ğıõòc choòn lıu vaÌo clipboard
-	- Paste (Ctrl+V): Paste object tıÌ Clipboard. İu tiên paste object cuÒa ıìng duòng MyPaint. 
-	Nêìu không coì object naÌo cuÒa MyPaint thiÌ seŞ Paste CF_TEXT
-	- Delete (Del): Xoìa object ğang ğıõòc choòn
-	- Object ğıõòc pastedduwojc thêm vaÌo danh saìch object cuÒa ıìng duòng vaÌo quaÒn lyì
-	- Nêìu paste CF_TEXT seŞ ğıõòc thêm vaÌo danh saìch cuÒa ıìng duòng vaÌ ğıõòc set font vaÌo color 
-	hiêòn haÌnh cuÒa child window. Object õÒ toòa ğôò (0,0)
-	- Lıu trıŞ Source trên repositiri cuÒa Bibucket
-
-* Phiên baÒn Visual Studio 2017, chaòy trên x64
+* CÃ¡c chá»©c nÄƒng:
+	- Váº½ cÃ¡c hÃ¬nh cÆ¡ báº£n: ÄÆ°á»ng tháº³ng, hÃ¬nh vuÃ´ng, elipse, text
+	- Chá»n cÃ¡c hÃ¬nh vÃ  di chuyá»ƒn, copy, cut, delete Ä‘Æ°á»£c
+	- Má»Ÿ nhiá»u tab window váº½ cÃ¹ng má»™t lÃºc
+	- Copy vÄƒn báº£n bÃªn ngoÃ i paste vÃ o app vÃ  ngÆ°á»£c láº¡i
+	- Copy hÃ¬nh trong window nÃ y vÃ  paste vÃ  window khÃ¡c
+	- LÆ°u láº¡i file váº½ Ä‘á»ƒ láº§n sau má»Ÿ lÃªn Ä‘Æ°á»£c
+	
+* PhiÃªn báº£n Visual Studio 2017, x64
