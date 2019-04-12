@@ -2,7 +2,7 @@
 * MSSV: 1653068
 * Các chức năng:
 	- Vẽ các hình cơ bản: Đường thẳng, hình chữ nhật, elipse, text
-	- Chọn các hình và di chuyển, copy, cut, delete được
+	- Chọn các hình và di chuyển, copy, cut, delete, tô màu
 	- Mở nhiều tab window vẽ cùng một lúc
 	- Copy văn bản bên ngoài paste vào app và ngược lại
 	- Copy hình trong window này và paste và window khác
